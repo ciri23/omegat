@@ -823,7 +823,7 @@
 		<listitem>
 		  <warning>
 			<para>This filter is the original OmegaT XLIFF filter. You should
-			only use it to avoir compatibility issues with previous projects
+			only use it to avoid compatibility issues with previous projects
 			containing files you handled with that filter.</para>
 		  </warning>
 		  
