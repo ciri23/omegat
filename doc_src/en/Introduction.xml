@@ -271,7 +271,7 @@
     <para>Use <link linkend="menus.project" endterm="menus.project.title"/><link
     linkend="menus.project.properties"
     endterm="menus.project.properties.title"/> to come back to this dialog after
-    you have created the project,.</para>
+    you have created the project.</para>
 
 	<note>
 	  <para>You can modify the structure of a project at any time after you have
@@ -619,7 +619,7 @@
 
     <para>If the documents you translate use bold, italics, or other decorative
     elements, OmegaT will convert those elements into tags that enclose the
-    decorated text. Such files include LibreOffice files, HTML files an
+    decorated text. Such files include LibreOffice files, HTML files and
     Microsoft Office files for example. Documents often also contain tags that
     have nothing to do with decorations, but are nevertheless important in the
     source files (and, consequently, in the translated files).</para>
@@ -647,7 +647,7 @@
 
 	<note>
 	  <para>The various tag related settings can be very helpful to properly
-	  manage the tags in a documents. See the following options and scripts for
+	  manage the tags in a document. See the following options and scripts for
 	  details:</para>
 	  <itemizedlist>
 		<listitem>
